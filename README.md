@@ -8,12 +8,12 @@
 
 
 <p align="center">
-<img src="https://github.com/mrdesautu/Proyecto-Recomendacion-Yelp-Maps/blob/main/source/descarga%20(1).png"  height=300>
+<img src="https://github.com/mrdesautu/Proyecto-Recomendacion-Yelp-Maps/blob/main/source/descarga%20(1).png"  height=200>
 </p>
 
 
 <p align="center">
-<img src="https://github.com/mrdesautu/Proyecto-Recomendacion-Yelp-Maps/blob/main/source/descarga.png"  height=300>
+<img src="https://github.com/mrdesautu/Proyecto-Recomendacion-Yelp-Maps/blob/main/source/descarga.png"  height=200>
 </p>
 
 <br/>   

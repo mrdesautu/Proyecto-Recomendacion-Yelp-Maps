@@ -4,19 +4,14 @@
  ## <h1 align=center>**`Sistema de Recomendación:`**</h1>
 
 
-<div style="text-align: center;">
-  <p style="display: inline-block; margin: 0 10px;">
+<div >
     <img src="https://github.com/mrdesautu/Proyecto-Recomendacion-Yelp-Maps/blob/main/source/images%20(7).jpg" height="60" width="60">
   </p>
-  <p style="display: inline-block; margin: 0 10px;">
     <img src="https://github.com/mrdesautu/Proyecto-Recomendacion-Yelp-Maps/blob/main/source/descarga.png" height="60" width="60">
   </p>
 </div>
-<div style="text-align: center;">
-  <p style="display: inline-block; margin: 0 10px;">
     <img src="https://github.com/mrdesautu/Proyecto-Recomendacion-Yelp-Maps/blob/main/source/descarga%20(1).png" height="60" width="60">
   </p>
-  <p style="display: inline-block; margin: 0 10px;">
     <img src="https://github.com/mrdesautu/Proyecto-Recomendacion-Yelp-Maps/blob/main/source/GMAP.png" height="60" width="60">
   </p>
 </div>

@@ -29,7 +29,7 @@
 + La temática planteada es de una inmensidad que supera al recurso tiempo y humano con el que se cuenta. Por ello se ha decidido sectorizar el estudio de mercado. Seleccionando sólo un estado, California, ente los 51 estados con los que se cuenta; y entre los tipos de negocio, solo Restaurantes.El trabajo tiene un enfoque prototípico, por lo que puede ser escalado para ser operativo a mayor escala y en otros rubros.
 
  ## <h1 align=center>**`Productos finales:`**</h1>
- **Conclusiones del Analista de Datos:** 
+ **Conclusiones del Analista de Datos(Gamal Gazziro):** 
 + California es un lugar increíblemente diverso y lleno de oportunidades, lo que lo convierte en un excelente punto de partida para emprendimientos de todo tipo. Sin embargo, como con cualquier gran oportunidad, también conlleva sus desafíos.
 Uno de los mayores desafíos que enfrentará un restaurante en California es la competitividad. Con tantos restaurantes de alta calidad en la zona, es vital que cualquier negocio de alimentos se destaque de alguna manera para atraer a los clientes.
 Aquí es donde entra en juego la excelencia y la innovación. Si bien la calidad de la comida y el servicio es obviamente importante, también es necesario que un restaurante se destaque por sus ideas innovadoras y su enfoque en la excelencia. Esto puede incluir cosas como la decoración del restaurante, la experiencia del cliente o la creación de menús únicos que se adapten a los gustos locales.
@@ -37,7 +37,7 @@ Además, la innovación tecnológica también es un requisito importante para cu
 En resumen, California es un lugar maravilloso para iniciar un negocio de alimentos, pero también es un lugar muy competitivo. Para tener éxito en este entorno, la excelencia e innovación deben ser las mejores herramientas del restaurante, y la innovación tecnológica es un requisito esencial. Con el enfoque correcto y el trabajo duro, cualquier restaurante puede triunfar en California.
 + Estas conclusiones deben ser interpretadas en base a los Dashboards adjuntados en el sector señalizado en GitHub. 
 
-**Sistemas de recomendación y asesoramiento (Machine Learning):**
+**Sistemas de recomendación y asesoramiento (Martin Rodrigo Morales):**
 + **Recomendación a usuarios:** 
 Para realizar este sistema de recomendación se planteó utilizar tecnología de vanguardia, así como las teorías científicas más novedosas y eficientes sustentadas empíricamente, dentro del área del Neuromarketing y la Estadística.
 <p align="center">

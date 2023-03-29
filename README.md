@@ -4,17 +4,23 @@
  ## <h1 align=center>**`Sistema de Recomendación:`**</h1>
 
 
-## <h1 align=center>**` Yelp + Google Maps`**</h1>
+<div style="text-align: center;">
+  <p style="display: inline-block; margin: 0 10px;">
+    <img src="https://github.com/mrdesautu/Proyecto-Recomendacion-Yelp-Maps/blob/main/source/images%20(7).jpg" height="60" width="60">
+  </p>
+  <p style="display: inline-block; margin: 0 10px;">
+    <img src="https://github.com/mrdesautu/Proyecto-Recomendacion-Yelp-Maps/blob/main/source/descarga.png" height="60" width="60">
+  </p>
+</div>
+<div style="text-align: center;">
+  <p style="display: inline-block; margin: 0 10px;">
+    <img src="https://github.com/mrdesautu/Proyecto-Recomendacion-Yelp-Maps/blob/main/source/descarga%20(1).png" height="60" width="60">
+  </p>
+  <p style="display: inline-block; margin: 0 10px;">
+    <img src="https://github.com/mrdesautu/Proyecto-Recomendacion-Yelp-Maps/blob/main/source/GMAP.png" height="60" width="60">
+  </p>
+</div>
 
-
-<p align="center">
-<img src="https://github.com/mrdesautu/Proyecto-Recomendacion-Yelp-Maps/blob/main/source/descarga%20(1).png"  height=60>
-</p>
-
-
-<p align="center">
-<img src="https://github.com/mrdesautu/Proyecto-Recomendacion-Yelp-Maps/blob/main/source/descarga.png"  height=60>
-</p>
 
  ## <h1 align=center>**`Contexto y Objetivos:`**</h1>
  **Contexto**	
@@ -39,7 +45,7 @@ En resumen, California es un lugar maravilloso para iniciar un negocio de alimen
 + Estas conclusiones deben ser interpretadas en base a los Dashboards adjuntados en el sector señalizado en GitHub. 
 
 **Sistemas de recomendación y asesoramiento (Machine Learning):**
-+ Recomendación a usuarios: 
++ **Recomendación a usuarios:** 
 Para realizar este sistema de recomendación se planteó utilizar tecnología de vanguardia, así como las teorías científicas más novedosas y eficientes sustentadas empíricamente, dentro del área del Neuromarketing y la Estadística.
 <p align="center">
 <img src="https://github.com/mrdesautu/Proyecto-Recomendacion-Yelp-Maps/blob/main/source/images%20(1).jpg"  height=60>
@@ -49,7 +55,7 @@ Para realizar este sistema de recomendación se planteó utilizar tecnología de
 El sistema también puede elegir entre opciones en caso de que el usuario se encuentre indeciso. 
 Es un sistema utiliza tecnología GPT-3.5 para analizar y generar texto, DALLE 2 para las imágenes y la similitud de usuarios es calculada con el método de correlación de Pearson. 
 
-+ Sistema de Asesoramiento a Inversores o dueños de Restaurantes: 
++ **Sistema de Asesoramiento a Inversores o dueños de Restaurantes:** 
 Este sistema se creo para generar propuestas e ideas de mejora y marketing para un Restaurante en el área de California. Se utilizó como bases teorías la Teoría del Aprendizaje observacional de A. Bandura, se puede aprender de los errores y aciertos de otros, así como el análisis FODA, identificando las fortalezas y debilidades de la competencia, apara aumentar nuestras oportunidades y mitigar nuestras amenazas. Pudiéndose escalar a otros tipos de negocios y siendo posible aplicarlo en tiempo real.   
 <p align="center">
 <img src="https://github.com/mrdesautu/Proyecto-Recomendacion-Yelp-Maps/blob/main/source/images%20(5).jpg"  height=60>

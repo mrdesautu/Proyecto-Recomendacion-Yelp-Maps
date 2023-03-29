@@ -5,11 +5,14 @@
 
 
 <div >
+<p align="center">
     <img src="https://github.com/mrdesautu/Proyecto-Recomendacion-Yelp-Maps/blob/main/source/descarga.png" height="60">
   </p>
 </div>
+<p align="center">
     <img src="https://github.com/mrdesautu/Proyecto-Recomendacion-Yelp-Maps/blob/main/source/descarga%20(1).png" height="60">
   </p>
+  <p align="center">
     <img src="https://github.com/mrdesautu/Proyecto-Recomendacion-Yelp-Maps/blob/main/source/GMAP.png" height="60" width="60">
   </p>
 </div>
@@ -99,3 +102,4 @@ A medida que se avanzó en la implementación se observó que los recursos utili
 | **ETL y EDA** | Aquí encontrará el codigo utilizado para el ETL y el EDA. |
 | **Presentacion.bix** | DashBoard en PowerBI |
 | **Archivos** | Aqui encontrará todos los documentos escritos y presentaciones que se encuentran en Drive |
+| **Sources** | Imagenes utilizadas para la presentacion del trabajo |

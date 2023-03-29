@@ -5,12 +5,10 @@
 
 
 <div >
-    <img src="https://github.com/mrdesautu/Proyecto-Recomendacion-Yelp-Maps/blob/main/source/images%20(7).jpg" height="60" width="60">
-  </p>
-    <img src="https://github.com/mrdesautu/Proyecto-Recomendacion-Yelp-Maps/blob/main/source/descarga.png" height="60" width="60">
+    <img src="https://github.com/mrdesautu/Proyecto-Recomendacion-Yelp-Maps/blob/main/source/descarga.png" height="60">
   </p>
 </div>
-    <img src="https://github.com/mrdesautu/Proyecto-Recomendacion-Yelp-Maps/blob/main/source/descarga%20(1).png" height="60" width="60">
+    <img src="https://github.com/mrdesautu/Proyecto-Recomendacion-Yelp-Maps/blob/main/source/descarga%20(1).png" height="60">
   </p>
     <img src="https://github.com/mrdesautu/Proyecto-Recomendacion-Yelp-Maps/blob/main/source/GMAP.png" height="60" width="60">
   </p>

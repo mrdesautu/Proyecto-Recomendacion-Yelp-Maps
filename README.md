@@ -49,19 +49,25 @@ El sistema también puede elegir entre opciones en caso de que el usuario se enc
 Es un sistema utiliza tecnología GPT-3.5 para analizar y generar texto, DALLE 2 para las imágenes y la similitud de usuarios es calculada con el método de correlación de Pearson. 
 
 + **Sistema de Asesoramiento a Inversores o dueños de Restaurantes:** 
-Este sistema se creo para generar propuestas e ideas de mejora y marketing para un Restaurante en el área de California. Se utilizó como bases teorías la Teoría del Aprendizaje observacional de A. Bandura, se puede aprender de los errores y aciertos de otros, así como el análisis FODA, identificando las fortalezas y debilidades de la competencia, apara aumentar nuestras oportunidades y mitigar nuestras amenazas. Pudiéndose escalar a otros tipos de negocios y siendo posible aplicarlo en tiempo real.   
+Este sistema se creo para generar propuestas, ideas de mejora y marketing para un Restaurante en el área de California. Se utilizó como bases teorica la Teoría del Aprendizaje observacional de A. Bandura, "se puede aprender de los errores y aciertos de otros", así como el análisis FODA, identificando las fortalezas y debilidades de la competencia, apara aumentar nuestras oportunidades y mitigar nuestras amenazas. Pudiéndose escalar a otros tipos de negocios y siendo posible aplicarlo en tiempo real.   
 <p align="center">
 <img src="https://github.com/mrdesautu/Proyecto-Recomendacion-Yelp-Maps/blob/main/source/images%20(5).jpg"  height=60>
 </p>
 
 + **RoboAdvisor:** el sistema es un Inteligencia Artificial, que genera una muestra de los locales mas cercanos al restaurante seleccionado, dividiendo los más exitosos de los menos exitosos, y en base a los “tips” otorgados por los clientes (tanto negativos como positivos) genera dos listas de 3 ideas para mejorar nuestro negocio. Basando este filtro en la subcategoría seleccionada. 
 El sistema utiliza el sistema de análisis y generación de texto GPT-3.5. 
-
 <br/>   
+
+**Data Engineering – Arquitectura de la solución propuesta(Juan Jose Perez Molina):** 
++ En principio se propuso la implementación de una arquitectura basada en la nube para el manejo de bigdata (archivos de 5 Gigabytes o más grandes) y automatización del proceso de ETL basado en pipelines. Se estudió las características de los servicios ofrecidos por los principales vendors de servicios en la nube y se eligió en principio Google Cloud por ofrecer un sistema de facturación en el que se paga según las APIs y servicios que se consumen. 
+A medida que se avanzó en la implementación se observó que los recursos utilizados junto con los costos de servicios asociados eran mucho más altos que el bajo presupuesto que se tenía para este proyecto así que basándonos en el hecho de que la principal prioridad era la entrega de un Producto Mínimo Viable se decidió hacer un cambio en la estrategia de desarrollo y se optó por un stack tecnológico de bajo costo. 
++ Se eligió Google Colab como plataforma para ejecutar los scripts de Python en formato notebook de jupiter en los procesos de EDA y ETL y Google Drive como plataforma para almacenar la data cruda y tablas generadas en los procesos de ETL. En esta versión del proyecto no se requirió procesar datos que se generaran en tiempo real, sino que se trabajó con data estática, así que no fue necesario la implementación de pipelines, en cambio se diseñó e implementó dos scripts (ETL_Yelp y ETL_GoogleMap) en Python en formato Júpiter que en las primeras etapas del Análisis Exploratorio de Datos (EDA) permitió analizar los datos paso a paso y posteriormente se modificaron para ejecutar el proceso de ETL en una sola ejecución. Finalmente se generaron los archivos con datos estructurados y limpios en formato parquet que posteriormente alimentó a la etapa de Data Analysis y generación de Dashboard e informes.
+
+
 
 ## **Links de Archivos:**
 
-**`Respositorio en Google Driv`**: https://drive.google.com/drive/folders/1_b8JrWr5q3UGPbyPHdTmIi1cxqsVjdnz?usp=share_link
+**`Respositorio en Google Drive`**: https://drive.google.com/drive/folders/1_b8JrWr5q3UGPbyPHdTmIi1cxqsVjdnz?usp=share_link
  En este encontrará:
 + Proyecto Preliminar
 + Power Point con presentacion Gráfica de las semanas 1,2 y 3.
@@ -92,4 +98,4 @@ El sistema utiliza el sistema de análisis y generación de texto GPT-3.5.
 | **Data Base** | Bases de datos de California utilizadas en el proyecto.  |
 | **ETL y EDA** | Aquí encontrará el codigo utilizado para el ETL y el EDA. |
 | **Presentacion.bix** | DashBoard en PowerBI |
-
+| **Archivos** | Aqui encontrará todos los documentos escritos y presentaciones que se encuentran en Drive |

@@ -1,7 +1,7 @@
 
  <h1 align=center> Proyecto Final</h1>
 
- # <h1 align=center>**`Sistema de Recomendación:`**</h1>
+ ## <h1 align=center>**`Sistema de Recomendación:`**</h1>
 
 
 ## <h1 align=center>**` Yelp + Google Maps`**</h1>
@@ -19,17 +19,18 @@
  ## <h1 align=center>**`Contexto y Objetivos:`**</h1>
  **Contexto**	
  + Somos un equipo de científicos de datos, que ha sido contratado para asesorar sobre una inversión de negocio. Nuestro cliente desea montar un negocio en un estado, de USA. Contamos con dos grades bases de datos: 1- Google Maps:  datos sobre locales existentes y características generales; 2-Yelp: con reseñas de usuarios, puntuando los locales y describiendo su experiencia. Se nos permite usar datos adicionales.
+</h1>
 
-+ **Objetivos**
-Nuestros objetivos principales se dividen en dos:
-+ Responder a nuestro cliente sobre premisas necesarias para montar un Restaurante exitoso en base a datos. 
+**Objetivos**
++ Responder a nuestro cliente sobre premisas necesarias para montar un Restaurante exitoso basado en datos. 
 + Desarrollar un sistema de recomendación a usuarios que les sugiera visitar restaurantes que no hayan conocido aun, en base a sus experiencias previas. 
+</h1>
+
 **Alcance**
-+ La temática planteada es de una inmensidad que supera al recurso tiempo y humano con el que se cuenta. Por ello se ha decidido sectorizar el estudio de mercado. Seleccionando sólo un estado, California, ente los 51 estados con los que se cuenta; y entre los tipos de negocio, solo Restaurantes.
-+ El trabajo tiene un enfoque prototípico, por lo que puede ser escalado para ser operativo a mayor escala y en otros rubros.
++ La temática planteada es de una inmensidad que supera al recurso tiempo y humano con el que se cuenta. Por ello se ha decidido sectorizar el estudio de mercado. Seleccionando sólo un estado, California, ente los 51 estados con los que se cuenta; y entre los tipos de negocio, solo Restaurantes.El trabajo tiene un enfoque prototípico, por lo que puede ser escalado para ser operativo a mayor escala y en otros rubros.
 
  ## <h1 align=center>**`Productos finales:`**</h1>
- **'Conclusiones del Analista de Datos:'** 
+ **Conclusiones del Analista de Datos:** 
 + California es un lugar increíblemente diverso y lleno de oportunidades, lo que lo convierte en un excelente punto de partida para emprendimientos de todo tipo. Sin embargo, como con cualquier gran oportunidad, también conlleva sus desafíos.
 Uno de los mayores desafíos que enfrentará un restaurante en California es la competitividad. Con tantos restaurantes de alta calidad en la zona, es vital que cualquier negocio de alimentos se destaque de alguna manera para atraer a los clientes.
 Aquí es donde entra en juego la excelencia y la innovación. Si bien la calidad de la comida y el servicio es obviamente importante, también es necesario que un restaurante se destaque por sus ideas innovadoras y su enfoque en la excelencia. Esto puede incluir cosas como la decoración del restaurante, la experiencia del cliente o la creación de menús únicos que se adapten a los gustos locales.
@@ -53,6 +54,7 @@ Este sistema se creo para generar propuestas e ideas de mejora y marketing para 
 <p align="center">
 <img src="https://github.com/mrdesautu/Proyecto-Recomendacion-Yelp-Maps/blob/main/source/images%20(5).jpg"  height=60>
 </p>
+
 + **RoboAdvisor:** el sistema es un Inteligencia Artificial, que genera una muestra de los locales mas cercanos al restaurante seleccionado, dividiendo los más exitosos de los menos exitosos, y en base a los “tips” otorgados por los clientes (tanto negativos como positivos) genera dos listas de 3 ideas para mejorar nuestro negocio. Basando este filtro en la subcategoría seleccionada. 
 El sistema utiliza el sistema de análisis y generación de texto GPT-3.5. 
 
